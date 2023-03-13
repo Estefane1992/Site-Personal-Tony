@@ -9,7 +9,7 @@
     color: var(--clr-primary);
     font-size: 3em;
     margin-top: 100px;
-    margin-bottom: 20px;
+    margin-bottom: 70px;
 }
 .plans-card-titulo{
     color: var(--clr-primary);
@@ -21,7 +21,4 @@
     font-size: 3.5em;
     color: var(--clr-primary);
     
-   
-   
-  
 }

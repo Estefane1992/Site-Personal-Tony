@@ -24,7 +24,7 @@ function About() {
               paddingBottom: "70px",
             }}
           >
-            <h1 id="sobre" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">QUEM SOU</h1>
+            <h1 className="sobre" id="quemsou" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">QUEM SOU</h1>
             <p id="paragrafo" data-aos="fade-down" data-aos-duration="2000">Conheça o meu método de trabalho e alguns detalhes sobre a minha carreira como personal trainer</p>
             <div>
               <Aboutcard />

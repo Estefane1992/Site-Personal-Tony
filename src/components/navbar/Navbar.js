@@ -60,8 +60,8 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link href="#sobre">
-                Sobre
+              <Nav.Link href="#quemsou">
+                Quem sou
               </Nav.Link>
             </Nav.Item>
           </Nav>

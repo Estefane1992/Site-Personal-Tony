@@ -77,13 +77,12 @@
   color: var(--clr-txt) !important;
 }
 
-.logo {
-  height: 2.5em;
-  width: 3em;
-}
+
 
 .navbar-nav .nav-link {
-  color: var(--clr-txt) !important;
+  color: #1d80cd !important;
+  font-size: 1.5em;
+  font-weight: bold;
   padding-right: 0.5rem !important;
   padding-left: 0.5rem !important;
 }

@@ -40,14 +40,14 @@
   display: flex;
   justify-content: center;
 }
-#sobre{
+.sobre{
   color: var(--clr-primary);
   font-size: 3em;
   
 }
 #paragrafo{
   color: #208adb;
-  font-size: 1.2em;
+  font-size: 1.7em;
   margin-top: 50px;
   margin-bottom: 50px;
 }
