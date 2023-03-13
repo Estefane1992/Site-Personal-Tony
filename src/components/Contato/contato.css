@@ -1,0 +1,26 @@
+.contato-image{
+    width: 10%;
+}
+.contato-telefone {
+    text-decoration: none;
+    font-size: 2em; 
+    color: var(--clr-primary);
+}
+.contato-telefone:hover{
+    color: var(--clr-primary);
+}
+.contato-email {
+    text-decoration: none;
+    font-size: 2em;
+    color: var(--clr-primary);
+}
+.contato-email:hover{
+    color: var(--clr-primary);
+
+}
+.font-icon{
+    font-size: 2em;
+    margin-top: 0.5em;
+    margin-right: 0.3em;
+    color: var(--clr-primary);
+}

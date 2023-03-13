@@ -1,0 +1,23 @@
+.activity{
+    background: transparent !important;
+} 
+.activity:hover{
+    transform: scale(1.1);
+   
+}
+.servico{
+    color: var(--clr-primary);
+    font-size: 3rem;
+    font-weight: 500;
+   
+}
+.servico-paragrafo{
+    color: var(--clr-primary);
+    font-size: 1.5rem;
+   
+}
+.card-titulo{
+    font-size: 1.5rem;
+    color: var(--clr-primary);
+    font-weight: 400;
+}
