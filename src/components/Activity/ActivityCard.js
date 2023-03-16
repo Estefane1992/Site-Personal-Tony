@@ -40,7 +40,7 @@ function ActivityCard() {
             <Card border="primary" className="activity" data-aos="flip-down" data-aos-duration="2000">
                 <Card.Img variant="top" src={Crosstraing} />
                 <Card.Body>
-                    <Card.Title className="card-titulo">Cross Traing</Card.Title>
+                    <Card.Title className="card-titulo">Cross Training</Card.Title>
                 </Card.Body>
              </Card>
         </Col>
