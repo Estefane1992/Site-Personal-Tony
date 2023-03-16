@@ -8,17 +8,20 @@
 .plans-titulo{
     color: var(--clr-primary);
     font-size: 3em;
+    text-align: center;
     margin-top: 100px;
     margin-bottom: 70px;
 }
 .plans-card-titulo{
+    border-bottom: 1px solid #00A9FF;
     color: var(--clr-primary);
     font-size: 2em;
-    border-bottom: 1px solid #00A9FF;
+    text-align: center;
 }
 
 .plans-preco{
-    font-size: 3.5em;
     color: var(--clr-primary);
+    font-size: 3.5em;
+    text-align: center;
     
 }

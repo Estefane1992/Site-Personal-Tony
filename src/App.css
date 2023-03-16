@@ -6,23 +6,7 @@
   color: var(--clr-txt);
   background-color: var(--clr-bg);
 }
-
-.light {
-  --clr-bg: #f6f4f4ea;
-  --clr-bg-alt: #f6f4f4;
-  --nav-link: #03467a;
-  --clr-txt: #000;
-  --clr-primary: #03467a;
-
-  --clr-border: #919090;
-
-  --clr-nav: #fefefe;
-
-  --shadow: rgb(100, 100, 111) 0px 7px 29px 0px;
-  --header-plans-titulo: lightgrey;
-}
-
-.dark {
+:root{
   --clr-bg: #202523;
   --clr-bg-alt: #1d2120;
   --nav-link: #fff;

@@ -29,20 +29,13 @@
   background: transparent !important;
   border: none !important;
   box-shadow: var(--shadow);
+  color: #fff;
 }
-.gitContainer {
-  padding: 15px;
-  background: transparent !important;
-  box-shadow: var(--shadow);
-  font-size: 30px !important;
-  color: var(--clr-txt);
-  border-radius: 5px;
-  display: flex;
-  justify-content: center;
-}
+
 .sobre{
   color: var(--clr-primary);
   font-size: 3em;
+  text-align: center;
   
 }
 #paragrafo{

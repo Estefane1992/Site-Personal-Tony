@@ -1,12 +1,8 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap');
 body {
   margin: 0;
-  font-family: "Roboto", serif !important;
+  font-family: 'Oswald', sans-serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: linear-gradient(
-    90deg,
-    hsla(153, 9%, 19%, 1) 0%,
-    hsla(153, 9%, 19%, 1) 100%
-  );
+  background-color: var(--clr-bg) !important;
 }

@@ -5,9 +5,11 @@
     text-decoration: none;
     font-size: 2em; 
     color: var(--clr-primary);
+    
 }
 .contato-telefone:hover{
     color: var(--clr-primary);
+   
 }
 .contato-email {
     text-decoration: none;

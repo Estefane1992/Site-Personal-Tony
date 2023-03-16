@@ -20,7 +20,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="instagram"
-                href="https://www.instagram.com/"
+                href="https://www.instagram.com/luis.antoniosantos.tony/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="instagram"

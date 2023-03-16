@@ -1,5 +1,6 @@
 .footer {
-  background: transparent;
+  
+  background:  #202523;
   border-top: 1px solid var(--clr-border);
   padding-top: 10px !important;
   padding-bottom: 8px !important ;

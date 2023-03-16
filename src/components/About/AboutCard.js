@@ -17,7 +17,7 @@ function AboutCard() {
           </p>
           <br/>
           <br/>
-          <span data-aos="fade-down" data-aos-duration="1500" style={{fontSize: "1.2em", fontWeight: "bold"}}>Área de atuação:</span>
+          <span data-aos="fade-down" data-aos-duration="1500" style={{fontSize: "1.2em", fontWeight: "bold", color: 'white'}}>Área de atuação:</span>
           <li className="about-activity" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
             <AiOutlineArrowRight/> Personal trainer 
           </li>

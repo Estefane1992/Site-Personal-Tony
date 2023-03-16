@@ -4,8 +4,6 @@ import Navbar from "./components/navbar/Navbar";
 import Home from "./components/Home/Home";
 import About from "./components/About/About";
 import Footer from "./components/footer/Footer";
-import { ThemeContext } from "./Context/theme";
-// import { BrowserRouter } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop/ScrollToTop";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -16,7 +14,7 @@ import Plans from "./components/Plans/Plans";
 
 function App() {
   const [load, upadateLoad] = useState(true);
-  const [{ themename }] = React.useContext(ThemeContext);
+  
 
   useEffect(() => {
     const timer = setTimeout(() => {
@@ -27,7 +25,7 @@ function App() {
   }, []);
 
   return (
-    <div className={`${themename} app`}>
+    <div>
       
         <Preloader load={load} />
         <div className="App" id={load ? "no-scroll" : "scroll"}>
