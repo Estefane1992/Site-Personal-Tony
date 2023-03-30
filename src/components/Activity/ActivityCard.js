@@ -1,6 +1,5 @@
 import React from "react";
 import { Col, Row, Card} from "react-bootstrap";
-import Alimentacao from '../../Assets/Alimentacao.jpg';
 import Avaliacao from '../../Assets/avaliacao.jpg';
 import Crosstraing from '../../Assets/Crosstraing.jpg';
 import Kickboxing from '../../Assets/kickboxing.jpg';

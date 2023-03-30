@@ -4,21 +4,45 @@
   padding-bottom: 30px !important;
   background-color: var(--clr-bg) !important;
 }
-
-.tech-icons {
+.card-missao{
   font-size: 2em !important;
   margin: 15px !important;
   padding: 10px !important;
-  opacity: 0.93 !important;
-  color: var(--clr-primary);
+  color: whitesmoke;
   vertical-align: middle !important;
   text-align: center !important;
-  background: transparent !important;
   box-shadow: var(--shadow) !important;
   border-radius: 5px !important;
   display: table !important;
   overflow: hidden !important;
   transition: all 0.4s ease 0s !important;
+  background-image: url(/src/Assets/card5.jpg) !important;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgba(255, 255, 255, 0.5) !important;
+
+}
+.card-valores{
+  font-size: 2em !important;
+  margin: 15px !important;
+  padding: 10px !important;
+  color: whitesmoke;
+  vertical-align: middle !important;
+  text-align: center !important;
+  box-shadow: var(--shadow) !important;
+  border-radius: 5px !important;
+  display: table !important;
+  overflow: hidden !important;
+  transition: all 0.4s ease 0s !important;
+  background-image: url(/src/Assets/card4.jpg) !important;
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgba(255, 255, 255, 0.5) !important;
+
+  
+  
 }
 .tech-icons-image{
   width: 50%;
@@ -51,7 +75,11 @@
   }
 }
 
-.tech-icons:hover {
+.card-missao:hover {
+  transform: scale(1.08) !important;
+  overflow: hidden !important;
+}
+.card-valores:hover{
   transform: scale(1.08) !important;
   overflow: hidden !important;
 }
@@ -72,7 +100,4 @@
   .about-img {
     padding-top: 0 !important;
   }
-}
-.git {
-  color: var(--clr-primary);
 }

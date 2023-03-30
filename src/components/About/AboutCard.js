@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { AiOutlineArrowRight } from "react-icons/ai";
+
 
 
 function AboutCard() {
@@ -19,16 +19,16 @@ function AboutCard() {
           <br/>
           <span data-aos="fade-down" data-aos-duration="1500" style={{fontSize: "1.2em", fontWeight: "bold", color: 'white'}}>Área de atuação:</span>
           <li className="about-activity" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
-            <AiOutlineArrowRight/> Personal trainer 
+            Personal trainer 
           </li>
           <li className="about-activity" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
-            <AiOutlineArrowRight/> Consultor esportivo
+             Consultor esportivo
           </li>
           <li className="about-activity" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
-            <AiOutlineArrowRight/> Avaliador físico
+             Avaliador físico
           </li>
           <li className="about-activity" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
-            <AiOutlineArrowRight/> Treinamento funcional/Crosstraing
+             Treinamento funcional/Crosstraing
           </li>
         </blockquote>
         
