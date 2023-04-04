@@ -20,7 +20,7 @@ function Contact() {
                         }} data-aos="flip-down" data-aos-easing="linear" data-aos-duration="3000">
                         <h1 className="primary-header" style={{ fontSize: "3em", paddingTop: "100px", paddingBottom: "25px" }} >ENTRE EM CONTATO </h1>
                         <span >
-                            <FontAwesomeIcon className="font-icon" icon={faPhone} /> <a className="contato-telefone" href="tel: 5571123456789">+55-71983353835</a>
+                            <FontAwesomeIcon className="font-icon" icon={faPhone} /> <a className="contato-telefone" href="tel: 5571983353835">+55-71983353835</a>
                         </span><br/>
                             <br/>
                         <span >
